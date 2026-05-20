@@ -1,0 +1,9 @@
+{
+  "skills": [
+    {
+      "name": "paper-to-idea",
+      "description": "Read 10-15 academic papers from a folder one-by-one, summarize each, then synthesize a novel research idea with full technical details and optionally output a Word document.",
+      "path": "skill.md"
+    }
+  ]
+}
